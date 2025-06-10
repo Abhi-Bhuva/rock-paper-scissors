@@ -1,0 +1,4 @@
+kind: Cluster
+apiVersion: v1
+metadat: 
+  name: namespace-app
